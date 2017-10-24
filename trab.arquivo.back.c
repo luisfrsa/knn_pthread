@@ -97,69 +97,46 @@ void treino(struct Musica caso_teste,int qdeElem){
 	}
 
 }
-void leituraArquivo(char dir[],struct Musica **musicas_return,int *qdeElem){
-	size_t len = 0;
-	FILE *file;
-	char *line = NULL,
-	     *split,
-		 read;
-	*qdeElem=0;
-	float *array;
-	file = fopen(dir, "r");
-	int ind_array=0,
-	    qdeMusicas=0;
-
-	struct Musica *musicas = (struct Musica *)malloc(sizeof(struct Musica));
-	
-	file = fopen(dir, "r");
-	if(file != NULL){
-		while ((read = getline(&line, &len, file)) != -1) {
-			ind_array=0;
-    		if(*qdeElem==0){
-    			*qdeElem = countChars(line,',');//retorna 59 em Split[58]: 0.283174, Split[59]: forro
-    		}
-    		//debugArq(line,qdeElem);
-    		musicas = (struct Musica *)realloc(musicas,(qdeMusicas+1)*sizeof(Musica));
-    		musicas[qdeMusicas].array = (float *)malloc(*qdeElem*sizeof(float));
-
-    		while((split = strsep(&line,",")) != NULL ){
-    			if(ind_array!=*qdeElem){
-	    			musicas[qdeMusicas].array[ind_array] = strtof(split, NULL);
-	       		}else{
-	       			musicas[qdeMusicas].genero = strtok(split, "\n");
-	       		}
-       			ind_array++;
-    		}    	
-    		//treino(musicas[qdeMusicas],qdeElem);
-    		qdeMusicas++;
-		}
-		*musicas_return = musicas;
-
-		fclose(file);
-    }else{
-    	printf("Erro, nao foi possivel abrir o arquivo %s \n",dir);
-	}
-    
-}
 int main(int argc, char *argv[]){		
 	char *line = NULL,
 	     *split,
 		 read,
-		 dir_test[]="bases/test_59.data",
-		 dir_treino[]="bases/train59.data";
-
+		 dir[]="bases/test_59.data";
 	int qdeElem=0,
 	    ind_array=0,
 	    qdeMusicas=0;
 	size_t len = 0;
+	FILE *file;
 	struct Musica *casos_teste = (struct Musica *)malloc(sizeof(struct Musica));
-	struct Musica *casos_treino = (struct Musica *)malloc(sizeof(struct Musica));
-	/*-----var def-----*/
 	printf("\n::Iniciando::");
-	leituraArquivo(dir_test,&casos_teste,&qdeElem);
-	leituraArquivo(dir_test,&casos_treino,&qdeElem);
-	print_array(casos_teste[0].array,qdeElem);
-	print_array(casos_treino[0].array,qdeElem);
+	/*-----var def-----*/
+	file = fopen(dir, "r");
+	if(file != NULL){
+		while ((read = getline(&line, &len, file)) != -1) {
+			ind_array=0;
+    		if(qdeElem==0){
+    			qdeElem = countChars(line,',');//retorna 59 em Split[58]: 0.283174, Split[59]: forro
+    		}
+    		//debugArq(line,qdeElem);
+    		casos_teste = (struct Musica *)realloc(casos_teste,(qdeMusicas+1)*sizeof(Musica));
+    		casos_teste[qdeMusicas].array = (float *)malloc(qdeElem*sizeof(float));
+
+    		while((split = strsep(&line,",")) != NULL ){
+    			if(ind_array!=qdeElem){
+	    			casos_teste[qdeMusicas].array[ind_array] = strtof(split, NULL);
+	       		}else{
+	       			casos_teste[qdeMusicas].genero = strtok(split, "\n");
+	       		}
+       			ind_array++;
+    		}    	
+    		//printf("\nTeste %s",casos_teste[qdeMusicas].genero);
+    		treino(casos_teste[qdeMusicas],qdeElem);
+    		qdeMusicas++;
+		}
+		fclose(file);
+    }else{
+    	printf("Erro, nao foi possivel abrir o arquivo %s \n",dir);
+	}
 	printf("\n");
     return 0;
 }
