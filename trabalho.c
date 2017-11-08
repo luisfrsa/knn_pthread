@@ -160,8 +160,8 @@ int main(int argc, char *argv[]){
 	char *line = NULL,
 	     *split,
 		 read,
-		 dir_test[]="bases/test_10.data",
-		 dir_treino[]="bases/train_10.data";
+		 dir_test[]="bases/test_154.data",
+		 dir_treino[]="bases/train_154.data";
 
 	int qdeElem=0,
 	    ind_array=0,
