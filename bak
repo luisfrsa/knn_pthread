@@ -1,0 +1,54 @@
+
+void treino(struct Musica caso_teste,int qdeElem){
+
+	char *line = NULL,
+	     *split,
+		 read,
+		 dir[]="bases/train_59.data";
+	int ind_array,
+		qdeMusicas=0;
+	size_t len = 0;
+	FILE *file;
+	float distancia,
+		  MENOR_DISTANCIA=FLT_MAX;
+	struct Musica MELHOR_MUSICA;
+	struct Musica *casos_treino = (struct Musica *)malloc(sizeof(struct Musica));
+
+
+	/*-----var def-----*/
+
+	file = fopen(dir, "r");
+	if(file != NULL){
+		while ((read = getline(&line, &len, file)) != -1) {
+			ind_array=0;
+    		//debugArq(line,qdeElem);
+			//printf("\nQDE musica %d",qdeMusicas);
+    		casos_treino = (struct Musica *)realloc(casos_treino,(qdeMusicas+1)*sizeof(Musica));
+    		casos_treino[qdeMusicas].array = (float *)malloc(qdeElem*sizeof(float));
+
+    		while((split = strsep(&line,",")) != NULL ){
+    			if(ind_array!=qdeElem){
+	    			casos_treino[qdeMusicas].array[ind_array] = strtof(split, NULL);
+	       		}else{
+	       			casos_treino[qdeMusicas].genero = strtok(split, "\n");
+	       		}
+       			ind_array++;
+    		}    	
+    		//printf("\nTreino %s",casos_treino[qdeMusicas].genero);
+    		
+    		distancia = distanciaMusica(caso_teste,casos_treino[qdeMusicas],qdeElem);
+
+    		if(distancia < MENOR_DISTANCIA){
+    			MENOR_DISTANCIA = distancia;
+    			MELHOR_MUSICA = casos_treino[qdeMusicas];
+    		}
+    		qdeMusicas++;
+		}
+		//printf("\n Menor Distancia %.10f ",MENOR_DISTANCIA);
+		//printf("\n Genero encontrado %s; Genero correto %s",MELHOR_MUSICA.genero,caso_teste.genero);
+		fclose(file);
+    }else{
+    	printf("Erro, nao foi possivel abrir o arquivo %s \n",dir);
+	}
+
+}
