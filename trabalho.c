@@ -5,9 +5,12 @@
 #include <math.h>
 
 #define FLT_MAX 3.402823466e+38F /* max value */
-
-float *ArrayDistanciaGlobal;
+float *ArrayDistanciaGlobal;//formato[treino][teste][menor]="Genero"
 char *ArrayGeneroGlobal;
+
+char **MatrizGlobal;//formato[teste][menor]="Genero"
+
+pthread_mutex_t lock;
 
 typedef struct Musica{
 	float *array;
@@ -20,22 +23,30 @@ typedef struct StructParamThread{
 	int qdeElem;
 	int size_treino;
 	int nth;
+	int index;
+	int caso;
 } StructParamThread;
 
+float menor_distancia = FLT_MAX;
+struct Musica melhor_musica;
 
 void debugArq(char line[], int qdeElem){
 	printf("Line: %s \n", line);
     printf("%d elementos \n",qdeElem);
 }
 void print_array(float *array, int length){
-	printf("\nPrintando array ");
+	printf("Printando array \n");
     for (int i = 0; i < length; i++) {
-    	printf("\narray[%d] => %f; ",i,array[i]);
+    	printf("array[%d] => %f; \n",i,array[i]);
     }
 }
-
+/*https://stackoverflow.com/questions/4235519/counting-number-of-occurrences-of-a-char-in-a-string-in-c*/
 int countChars( char* s, char c ){
     return *s == '\0'? 0: countChars( s + 1, c ) + (*s == c);
+}
+/*https://stackoverflow.com/questions/1515195/how-to-remove-n-or-t-from-a-given-string-in-c*/
+void strip(char *s) {
+    char *p2 = s;while(*s != '\0') {if(*s != '\t' && *s != '\n') {*p2++ = *s++;} else {++s;}}*p2 = '\0';
 }
 
 void leituraArquivo(char dir[],struct Musica **musicas_return,int *qdeElem,int *qdeMusicas){
@@ -67,7 +78,8 @@ void leituraArquivo(char dir[],struct Musica **musicas_return,int *qdeElem,int *
     			if(ind_array!=*qdeElem){
 	    			musicas[*qdeMusicas].array[ind_array] = strtof(split, NULL);
 	       		}else{
-	       			musicas[*qdeMusicas].genero = strtok(split, "\n");
+	       			musicas[*qdeMusicas].genero = strtok(split, "");
+	       			strip(musicas[*qdeMusicas].genero);
 	       		}
        			ind_array++;
     		}    	
@@ -93,10 +105,10 @@ float distanciaMusica(struct Musica caso_teste,struct Musica caso_treino,int qde
 	distancia = sqrt(distancia);
 	/*print_array(caso_treino.array,qdeElem);
 	print_array(caso_teste.array,qdeElem);
-	printf("\n Genero %s ",caso_treino.genero);
-	printf("\n Genero %s ",caso_teste.genero);
+	printf(" Genero %s ",caso_treino.genero);
+	printf(" Genero %s ",caso_teste.genero);
 	
-	printf("\n Distancia entre %s e %s: %.10f ",caso_teste.genero,caso_treino.genero,distancia);
+	printf(" Distancia entre %s e %s: %.10f ",caso_teste.genero,caso_treino.genero,distancia);
 	*/
 	return distancia;
 }
@@ -105,37 +117,58 @@ void *thread_musica(void *arg){
     StructParamThread *param = (StructParamThread*) arg;
 	float distancia;
 
-	printf(" \nsize_treino %d ",(*param).size_treino);
+
+	//printf("size_treino %d \n",(*param).size_treino);
 	//sleep(0.5);
-	for(int i=0;i<(*param).size_treino;i+=(*param).nth){
+	for(int i=(*param).index;i<(*param).size_treino;i+=(*param).nth){
+		//printf("Index[%d][%d] \n",(*param).index,i);
 
 		distancia = distanciaMusica((*param).caso_teste,(*param).casos_treino[i],(*param).qdeElem);
-		//printf("\n distancia %.10f ",distancia);
-		//printf("\n gen %s ",caso_teste.genero);
-		//printf("\n gen %s ",casos_treino[i].genero);
-		/*if(distancia < *MENOR_DISTANCIA){
-			*MENOR_DISTANCIA = distancia;
-			*MELHOR_MUSICA = casos_treino[i];
-		}*/
-	}
+		//printf(" distancia %.10f ",distancia);
+		//printf(" gen %s ",caso_teste.genero);
+		//printf(" gen %s ",casos_treino[i].genero);
+		/*estou tentando paralelizar, mas nao sei como armazenar os dados salvos
+		fazer em um papel, o q vira thread, o que não, para refletir arquivo
+		ver como acabaram as threads
+		acho que vinicius jogou na matriz, entao ao acabar a matriz está preenchida, ele deu lock no dele, desta forma nao precisa de lock, nao sei pq ele precisou dar
+		ou procurar por um wait*/
 
+		pthread_mutex_lock(&lock);
+		if(distancia < menor_distancia){
+			menor_distancia = distancia;
+			melhor_musica = (*param).casos_treino[i];
+		}
+	    pthread_mutex_unlock(&lock);
+	}
+	
 	pthread_exit(0);
 }
 
-void calcula_menor_distancia(Musica caso_teste, Musica *casos_treino,int qdeElem,int size_treino,float *MENOR_DISTANCIA, Musica *MELHOR_MUSICA){
-	*MENOR_DISTANCIA=FLT_MAX;
-	int nth=3;
-
+/*chega 1 teste e array de treinos*/
+void calcula_menor_distancia(Musica caso_teste, 
+							 Musica *casos_treino,
+							 int qdeElem,
+							 int size_treino,
+							 int nth){
 	pthread_t t[nth];
 
 	StructParamThread param[nth];
-
+	//MatrizGlobal = (char *) realloc(MatrizGlobal, (caso+1)*sizeof(Musica));
+	/*
+ numeros = (float **)calloc(l, sizeof(float *));
+ numeros = (float **)realloc(numeros, 2*l*sizeof(float *));
+ numeros = (float **)realloc(numeros, 2*l*sizeof(float *));
+	*/
+	/*
+	Cria N threads
+	*/
 	for(int j=0;j<nth;j++){
 		param[j].caso_teste = caso_teste;
 		param[j].casos_treino = casos_treino;
 		param[j].qdeElem = qdeElem;
 		param[j].size_treino = size_treino;
 		param[j].nth = nth;
+		param[j].index = j;
 		pthread_create(&t[j],NULL,thread_musica,(void*) &param[j]);
 	}	
 	for(int j=0;j<nth;j++){
@@ -147,14 +180,28 @@ int main(int argc, char *argv[]){
 	char *line = NULL,
 	     *split,
 		 read,
-		 dir_test[]="bases/test_59.data",
-		 dir_treino[]="bases/train_59.data";
+		 dir_test[100]="bases/test_",
+		 dir_treino[100]="bases/train_";
 
 	int qdeElem=0,
 	    ind_array=0,
 	    qdeMusicas=0,
 	    size_teste,
-	    size_treino;
+	    size_treino,
+	    erros=0,
+	    acertos=0,
+	    nth=1,
+	    caso=0,
+	    detalhes=0;
+	strcat(dir_test, argv[1]);
+	strcat(dir_test,".data");
+	strcat(dir_treino, argv[1]);
+	strcat(dir_treino,".data");
+	nth = atoi(argv[2]);
+	detalhes = atoi(argv[3]);
+
+	printf("Teste: %s, Treino: %s\n",dir_test,dir_treino);
+	printf("nth: %d",nth);
 
 	size_t len = 0;
 	float MENOR_DISTANCIA;
@@ -164,23 +211,31 @@ int main(int argc, char *argv[]){
 
 
 	/*-----var def-----*/
-	printf("\n::Iniciando::");
+	printf("::Iniciando::\n");
 
 	leituraArquivo(dir_test,&casos_teste,&qdeElem,&size_teste);
 	leituraArquivo(dir_treino,&casos_treino,&qdeElem,&size_treino);
 
-
 	for(int i=0;i<size_teste;i++){
-		memset(ArrayDistanciaGlobal, 0, sizeof (ArrayDistanciaGlobal));
+		/*memset(ArrayDistanciaGlobal, 0, sizeof (ArrayDistanciaGlobal));
 		memset(ArrayGeneroGlobal, 0, sizeof (ArrayGeneroGlobal));
-		calcula_menor_distancia(casos_teste[i],casos_treino,qdeElem,size_treino,&MENOR_DISTANCIA,&MELHOR_MUSICA);
-		printf("\n Genero: [%s => %s]; Menor distancia %.10f ",casos_teste[i].genero,MELHOR_MUSICA.genero,MENOR_DISTANCIA);
-		return 0;
+		*/
+		menor_distancia = FLT_MAX;
+		memset(&melhor_musica, 0, sizeof(melhor_musica));
+		calcula_menor_distancia(casos_teste[i],casos_treino,qdeElem,size_treino,nth);
+		if(detalhes!=0){
+			printf("Genero: [%s => %s]; Menor distancia %.10f \n",casos_teste[i].genero,melhor_musica.genero,menor_distancia);
+		}
+		if(strcmp(casos_teste[i].genero,melhor_musica.genero) != 0){
+			acertos++;
+		}else{
+			erros++;
+		}
 	}
-	
-	print_array(casos_teste[0].array,qdeElem);
-	print_array(casos_treino[0].array,qdeElem);
+	printf("Quantidade de acertos: %d\nQuantidade de erros: %d\nTotal: %d\n",acertos,erros,(erros+acertos));
 	printf("\n");
-    return 0;
+   /* print_array(casos_teste[0].array,qdeElem);
+	print_array(casos_treino[0].array,qdeElem);*/
+	return 0;
 }
  
