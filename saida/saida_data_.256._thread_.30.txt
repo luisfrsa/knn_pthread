@@ -1,0 +1,12 @@
+Teste: bases/test_256.data, Treino: bases/train_256.data
+nth: 30::Iniciando::
+Quantidade de elementos: 256 
+Quantidade de testes: 2248 
+Quantidade de acertos: 1051
+Quantidade de erros: 1197
+Total: 2248
+
+
+real	0m16,725s
+user	1m43,004s
+sys	1m46,732s

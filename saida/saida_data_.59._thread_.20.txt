@@ -1,0 +1,12 @@
+Teste: bases/test_59.data, Treino: bases/train_59.data
+nth: 20::Iniciando::
+Quantidade de elementos: 59 
+Quantidade de testes: 2248 
+Quantidade de acertos: 1131
+Quantidade de erros: 1117
+Total: 2248
+
+
+real	0m13,091s
+user	0m39,520s
+sys	1m14,692s

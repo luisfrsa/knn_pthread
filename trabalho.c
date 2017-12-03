@@ -54,7 +54,9 @@ void leituraArquivo(char dir[],struct Musica **musicas_return,int *qdeElem,int *
 	FILE *file;
 	char *line = NULL,
 	     *split,
-		 read;
+		 read,
+		 eof[100]="#EOF#";
+
 	*qdeElem=0;
 	float *array;
 	file = fopen(dir, "r");
@@ -62,10 +64,29 @@ void leituraArquivo(char dir[],struct Musica **musicas_return,int *qdeElem,int *
 	*qdeMusicas=0;
 
 	struct Musica *musicas = (struct Musica *)malloc(sizeof(struct Musica));
-	
+	/*
+	while (1) {
+       		printf("a ");
+			//read = getline(&line, &len, file);
+			if((read = getline(&line, &len, file))==-1){
+				break;
+			}
+			ind_array=0;
+			//printf("line %s\n\n\n", line);
+       		printf("qde musicas %d \n\n",*qdeMusicas);
+       		printf("b");
+       		if(strcmp(line,eof)==0){
+       			break;
+       		}
+	*/
 	file = fopen(dir, "r");
 	if(file != NULL){
-		while ((read = getline(&line, &len, file)) != -1) {
+		while (1) {
+			read = getline(&line, &len, file);
+			/*if ((read = getline(&line, &len, file)) != -1){printf("break 1 \n");//break;}*/
+			if(strcmp(line,eof)==0){
+       			break;
+       		}
 			ind_array=0;
     		if(*qdeElem==0){
     			*qdeElem = countChars(line,',');//retorna 59 em Split[58]: 0.283174, Split[59]: forro
@@ -200,8 +221,7 @@ int main(int argc, char *argv[]){
 	nth = atoi(argv[2]);
 	detalhes = atoi(argv[3]);
 
-	printf("Teste: %s, Treino: %s\n",dir_test,dir_treino);
-	printf("nth: %d",nth);
+	
 
 	size_t len = 0;
 	float MENOR_DISTANCIA;
@@ -212,9 +232,14 @@ int main(int argc, char *argv[]){
 
 	/*-----var def-----*/
 	printf("::Iniciando::\n");
-
+	printf("Teste: %s\n Treino: %s\n",dir_test,dir_treino);
+	printf("Num threads: %d\n ",nth);
 	leituraArquivo(dir_test,&casos_teste,&qdeElem,&size_teste);
+	printf("Quantidade de testes: %d \n",size_teste);
+	printf("Quantidade de elementos: %d \n",qdeElem);
 	leituraArquivo(dir_treino,&casos_treino,&qdeElem,&size_treino);
+	printf("Quantidade de treinos: %d \n",size_treino);
+	printf("Quantidade de elementos: %d \n",qdeElem);
 
 	for(int i=0;i<size_teste;i++){
 		/*memset(ArrayDistanciaGlobal, 0, sizeof (ArrayDistanciaGlobal));
@@ -226,7 +251,7 @@ int main(int argc, char *argv[]){
 		if(detalhes!=0){
 			printf("Genero: [%s => %s]; Menor distancia %.10f \n",casos_teste[i].genero,melhor_musica.genero,menor_distancia);
 		}
-		if(strcmp(casos_teste[i].genero,melhor_musica.genero) != 0){
+		if(strcmp(casos_teste[i].genero,melhor_musica.genero) == 0){
 			acertos++;
 		}else{
 			erros++;
@@ -234,8 +259,10 @@ int main(int argc, char *argv[]){
 	}
 	printf("Quantidade de acertos: %d\nQuantidade de erros: %d\nTotal: %d\n",acertos,erros,(erros+acertos));
 	printf("\n");
-   /* print_array(casos_teste[0].array,qdeElem);
+	///*
+    /*print_array(casos_teste[0].array,qdeElem);
 	print_array(casos_treino[0].array,qdeElem);*/
+	//*/
 	return 0;
 }
  
