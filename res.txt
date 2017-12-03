@@ -1,2250 +1,0 @@
-
-::Iniciando::
- Genero: ['axe' => 'sertanejo']; Menor distancia 4.8273353577 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.6338553429 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.4934434891 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 8.1911506653 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5101416111 
- Genero: ['forro' => 'axe']; Menor distancia 2.4828605652 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5871977806 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.5609667301 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.4472990036 
- Genero: ['axe' => 'axe']; Menor distancia 2.3601615429 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3827502728 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.2137081623 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.6593160629 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.5863380432 
- Genero: ['axe' => 'bossa_nova']; Menor distancia 6.2205018997 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.4473831654 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.6635077000 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.3048427105 
- Genero: ['forro' => 'forro']; Menor distancia 6.5585217476 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 1.5974804163 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.4805366993 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.9651880264 
- Genero: ['forro' => 'forro']; Menor distancia 2.6098358631 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.1891438961 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 5.9109573364 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 7.4569253922 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.7258391380 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.3851914406 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.1335144043 
- Genero: ['axe' => 'axe']; Menor distancia 3.0664525032 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0877273083 
- Genero: ['forro' => 'sertanejo']; Menor distancia 5.1228661537 
- Genero: ['sertanejo' => 'forro']; Menor distancia 5.2508311272 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 6.6454029083 
- Genero: ['bossa_nova' => 'rap_hip_hop']; Menor distancia 4.8474416733 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 9.7788648605 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 8.7145462036 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.2579078674 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.0286374092 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.7805628777 
- Genero: ['axe' => 'forro']; Menor distancia 4.0295886993 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 5.6757016182 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 5.9829902649 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.9861927032 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.2215166092 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'sertanejo']; Menor distancia 10.1701393127 
- Genero: ['forro' => 'sertanejo']; Menor distancia 5.5338048935 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.3105475903 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.2861359119 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.7153024673 
- Genero: ['forro' => 'axe']; Menor distancia 4.9530448914 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 2.8925709724 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.1285605431 
- Genero: ['axe' => 'axe']; Menor distancia 3.5619845390 
- Genero: ['axe' => 'sertanejo']; Menor distancia 3.8837590218 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 5.7670183182 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.3840889931 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.9543395042 
- Genero: ['sertanejo' => 'axe']; Menor distancia 4.1013088226 
- Genero: ['axe' => 'axe']; Menor distancia 3.7692177296 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.1631968021 
- Genero: ['forro' => 'forro']; Menor distancia 4.9918646812 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 6.0050082207 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 8.1016397476 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.7208356857 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.4522535801 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'forro']; Menor distancia 2.6921961308 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 7.8804969788 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.4613687992 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.8253259659 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.3506484032 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.8035402298 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.1744620800 
- Genero: ['axe' => 'forro']; Menor distancia 2.4181151390 
- Genero: ['axe' => 'axe']; Menor distancia 4.6850452423 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 2.8915071487 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.9118373394 
- Genero: ['forro' => 'forro']; Menor distancia 2.5956666470 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.3844051361 
- Genero: ['axe' => 'axe']; Menor distancia 4.0707459450 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 6.3645339012 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 6.2557091713 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.1054196358 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 6.9576492310 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.8472480774 
- Genero: ['forro' => 'rap_hip_hop']; Menor distancia 4.9157657623 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.7511041164 
- Genero: ['forro' => 'forro']; Menor distancia 2.2808210850 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.8013463020 
- Genero: ['axe' => 'axe']; Menor distancia 0.0626483113 
- Genero: ['axe' => 'axe']; Menor distancia 4.0456590652 
- Genero: ['forro' => 'forro']; Menor distancia 3.3335156441 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3504533768 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 5.2302398682 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 3.7511870861 
- Genero: ['forro' => 'forro']; Menor distancia 5.0099573135 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 6.2004628181 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.7898688316 
- Genero: ['forro' => 'axe']; Menor distancia 2.3257405758 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 7.7975902557 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0493528843 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.5389919281 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.0132796764 
- Genero: ['axe' => 'axe']; Menor distancia 3.7072126865 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 4.4374518394 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.4464290142 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.7085304260 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.7349948883 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 6.6971893311 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.9798908234 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.3151898384 
- Genero: ['axe' => 'axe']; Menor distancia 3.7387571335 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 9.6681098938 
- Genero: ['forro' => 'forro']; Menor distancia 3.1854941845 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 5.4248657227 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 6.4319691658 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 7.1152362823 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.2005858421 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5116169453 
- Genero: ['forro' => 'forro']; Menor distancia 2.3565137386 
- Genero: ['axe' => 'axe']; Menor distancia 2.5819094181 
- Genero: ['axe' => 'axe']; Menor distancia 2.1829507351 
- Genero: ['forro' => 'forro']; Menor distancia 2.5743176937 
- Genero: ['forro' => 'axe']; Menor distancia 2.5445599556 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.1068730354 
- Genero: ['forro' => 'forro']; Menor distancia 2.7722201347 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.4042205811 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.5571141243 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.8954117298 
- Genero: ['forro' => 'forro']; Menor distancia 1.9929981232 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.1959104538 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'forro']; Menor distancia 2.8170084953 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.9777150154 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.0171444416 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.7491152287 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.6796386242 
- Genero: ['forro' => 'forro']; Menor distancia 4.2828936577 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 4.4581499100 
- Genero: ['axe' => 'axe']; Menor distancia 4.1839113235 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 5.9714322090 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 7.3324680328 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.4607665539 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 2.4711019993 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 4.2124242783 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.8985779285 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.1967782974 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 3.7350742817 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 4.9785876274 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.4772799015 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.7546548843 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5789666176 
- Genero: ['axe' => 'forro']; Menor distancia 5.2725138664 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.8455221653 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.0291328430 
- Genero: ['forro' => 'bossa_nova']; Menor distancia 5.6315398216 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 2.5599749088 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.5463929176 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 5.2768039703 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.4932570457 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.8956475258 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.1988062859 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.3930158615 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.4090790749 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.7681005001 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.9713945389 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 5.0318350792 
- Genero: ['axe' => 'axe']; Menor distancia 5.0192084312 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.8491094112 
- Genero: ['sertanejo' => 'forro']; Menor distancia 4.4743247032 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.6705188751 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.5752742290 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 2.5629899502 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.6380496025 
- Genero: ['forro' => 'axe']; Menor distancia 5.9001178741 
- Genero: ['forro' => 'axe']; Menor distancia 6.4297256470 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.8783512115 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.4350287914 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.1818728447 
- Genero: ['axe' => 'axe']; Menor distancia 6.4200263023 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.7004549503 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.0025186539 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.7400946617 
- Genero: ['axe' => 'axe']; Menor distancia 2.7007060051 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 9.3876008987 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.4429025650 
- Genero: ['axe' => 'axe']; Menor distancia 3.1015164852 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.4233307838 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.2170147896 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.8482968807 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.6537878513 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.9669599533 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 2.8174643517 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 3.2212572098 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 6.6333818436 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 5.7989773750 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.2831530571 
- Genero: ['forro' => 'forro']; Menor distancia 4.5618596077 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.5318193436 
- Genero: ['forro' => 'forro']; Menor distancia 2.3680889606 
- Genero: ['axe' => 'axe']; Menor distancia 3.6155135632 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 4.4709320068 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 8.5413694382 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.8129687309 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.3768296242 
- Genero: ['forro' => 'axe']; Menor distancia 3.8545513153 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7939891815 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.0375158787 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 2.9918177128 
- Genero: ['forro' => 'forro']; Menor distancia 2.0561726093 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.7765374184 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.8301017284 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9789991379 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.7120144367 
- Genero: ['forro' => 'forro']; Menor distancia 4.8687772751 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.5901551247 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.8956556320 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.2385814190 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 2.5236032009 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.3188283443 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 6.3007512093 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 5.0524544716 
- Genero: ['forro' => 'axe']; Menor distancia 2.4265098572 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 2.4675545692 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.2519752979 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.7750685215 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.5563869476 
- Genero: ['axe' => 'sertanejo']; Menor distancia 6.3913021088 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.6520013809 
- Genero: ['forro' => 'forro']; Menor distancia 4.7253193855 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5544345379 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.6022069454 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.3865025043 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 2.3608653545 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.7708740234 
- Genero: ['axe' => 'axe']; Menor distancia 3.7506392002 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.6927657127 
- Genero: ['forro' => 'forro']; Menor distancia 3.9286592007 
- Genero: ['sertanejo' => 'axe']; Menor distancia 3.1249697208 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.5139329433 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 5.0719227791 
- Genero: ['forro' => 'axe']; Menor distancia 9.0983066559 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.3575706482 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.4081006050 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.7452464104 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.6734950542 
- Genero: ['axe' => 'axe']; Menor distancia 3.3895442486 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 3.6470334530 
- Genero: ['forro' => 'axe']; Menor distancia 3.0043382645 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 4.2715768814 
- Genero: ['axe' => 'axe']; Menor distancia 2.9571313858 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.0242962837 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'forro']; Menor distancia 8.3082923889 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.8996362686 
- Genero: ['axe' => 'axe']; Menor distancia 3.2656662464 
- Genero: ['sertanejo' => 'forro']; Menor distancia 5.8246459961 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0104079247 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 3.1598312855 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.3827214241 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.5265669823 
- Genero: ['forro' => 'forro']; Menor distancia 2.2445497513 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.1942152977 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.1029295921 
- Genero: ['bossa_nova' => 'rap_hip_hop']; Menor distancia 3.3182394505 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.4393184185 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5153048038 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 4.6516613960 
- Genero: ['axe' => 'axe']; Menor distancia 2.9220511913 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.5014588833 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 2.2974629402 
- Genero: ['axe' => 'forro']; Menor distancia 2.8213374615 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.1290066242 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.1596603394 
- Genero: ['axe' => 'forro']; Menor distancia 3.9038393497 
- Genero: ['forro' => 'forro']; Menor distancia 2.7462770939 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.7594981194 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 4.8518242836 
- Genero: ['sertanejo' => 'axe']; Menor distancia 5.1779222488 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.1442794800 
- Genero: ['forro' => 'axe']; Menor distancia 2.3158550262 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.9605808258 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 7.6751179695 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7429070473 
- Genero: ['forro' => 'forro']; Menor distancia 2.1184663773 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.4262681007 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 10.7765445709 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3108990192 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.0434899330 
- Genero: ['forro' => 'axe']; Menor distancia 2.7829844952 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.4499745369 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.7359371185 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.1162843704 
- Genero: ['forro' => 'forro']; Menor distancia 3.8362405300 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 2.8817238808 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.7171754837 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.5113759041 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.4749984741 
- Genero: ['axe' => 'axe']; Menor distancia 5.1234383583 
- Genero: ['axe' => 'axe']; Menor distancia 3.2627112865 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.2294511795 
- Genero: ['forro' => 'forro']; Menor distancia 2.7647700310 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 4.8747305870 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.9032135010 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.2246015072 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.6414532661 
- Genero: ['axe' => 'rap_hip_hop']; Menor distancia 6.5470385551 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.4200594425 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4078552723 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 3.8230376244 
- Genero: ['axe' => 'sertanejo']; Menor distancia 4.6826481819 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 3.5810387135 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.8010354042 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 4.7801218033 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.5957846642 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 4.1890273094 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.1213290691 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 4.0146098137 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'axe']; Menor distancia 4.5001454353 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 3.8954367638 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 2.9130933285 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 3.1128041744 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 4.8429999352 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 7.3081121445 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3589785099 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.5580093861 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0702815056 
- Genero: ['forro' => 'forro']; Menor distancia 4.5927562714 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 3.6116364002 
- Genero: ['forro' => 'forro']; Menor distancia 2.9612641335 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 4.6623444557 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.8953402042 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 5.1371288300 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.2874488831 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.1187372208 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.0745577812 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3028962612 
- Genero: ['forro' => 'forro']; Menor distancia 2.9748117924 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.0222077370 
- Genero: ['forro' => 'forro']; Menor distancia 2.4695549011 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.2987003326 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 7.7361736298 
- Genero: ['forro' => 'forro']; Menor distancia 3.4724912643 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 7.2856950760 
- Genero: ['sertanejo' => 'axe']; Menor distancia 4.0457458496 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 4.9603071213 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.8352684975 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.6678867340 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 3.6458735466 
- Genero: ['forro' => 'forro']; Menor distancia 2.6884689331 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.6705188751 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 5.5554318428 
- Genero: ['axe' => 'axe']; Menor distancia 4.5955591202 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 8.8879489899 
- Genero: ['forro' => 'forro']; Menor distancia 5.0846176147 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 4.0895466805 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.1952028275 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.5704860687 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 4.0637454987 
- Genero: ['sertanejo' => 'axe']; Menor distancia 6.6042265892 
- Genero: ['axe' => 'forro']; Menor distancia 4.4352192879 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 2.5785496235 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.6212956905 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.4773967266 
- Genero: ['sertanejo' => 'axe']; Menor distancia 3.9090318680 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.2432556152 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 6.2968988419 
- Genero: ['axe' => 'sertanejo']; Menor distancia 8.5532598495 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.6497857571 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 5.1362175941 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.4095249176 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 6.7160692215 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.8458857536 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.4242992401 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.7346632481 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 5.6481118202 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.8937070370 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.2030377388 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.5378551483 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 7.5162391663 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.0842156410 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.6478843689 
- Genero: ['forro' => 'axe']; Menor distancia 3.5388646126 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 6.0753231049 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.2563581467 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.1753365993 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.8569829464 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7347686291 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 6.0419473648 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.5782775879 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 4.8483095169 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.9512286186 
- Genero: ['axe' => 'axe']; Menor distancia 2.4158744812 
- Genero: ['sertanejo' => 'forro']; Menor distancia 4.5569338799 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.2840256691 
- Genero: ['axe' => 'forro']; Menor distancia 2.6017916203 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 9.1177930832 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 3.1957235336 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.3792548180 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.2225084305 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3589539528 
- Genero: ['axe' => 'axe']; Menor distancia 3.4467208385 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 7.1074395180 
- Genero: ['axe' => 'forro']; Menor distancia 2.7009625435 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.8078949451 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 3.1630558968 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 6.3856058121 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5251615047 
- Genero: ['axe' => 'axe']; Menor distancia 4.3992290497 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 5.6269459724 
- Genero: ['axe' => 'sertanejo']; Menor distancia 5.2095470428 
- Genero: ['axe' => 'axe']; Menor distancia 2.6459364891 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.4773967266 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.1943836212 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.4576168060 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 7.5316023827 
- Genero: ['forro' => 'axe']; Menor distancia 2.8457019329 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.1861257553 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 3.9210517406 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 4.0511102676 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 8.6726770401 
- Genero: ['sertanejo' => 'axe']; Menor distancia 9.7628030777 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.6965293884 
- Genero: ['forro' => 'forro']; Menor distancia 3.5283944607 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.6491851807 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.3900566101 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.3105475903 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.5682802200 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.7407884598 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.2687814236 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.4294962883 
- Genero: ['forro' => 'sertanejo']; Menor distancia 3.3648345470 
- Genero: ['axe' => 'forro']; Menor distancia 2.9920728207 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5853807926 
- Genero: ['axe' => 'axe']; Menor distancia 3.3804891109 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.1022355556 
- Genero: ['forro' => 'forro']; Menor distancia 3.1793508530 
- Genero: ['forro' => 'forro']; Menor distancia 2.6900436878 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 4.6776261330 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 2.7393267155 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 6.5851926804 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 6.9805445671 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.6130352020 
- Genero: ['axe' => 'forro']; Menor distancia 3.9760820866 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 14.9882946014 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.3135676384 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.3067963123 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.0508971214 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.5411648750 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 8.2499608994 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.9462332726 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.6816594601 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.4399886131 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.6873176098 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 4.2553620338 
- Genero: ['forro' => 'axe']; Menor distancia 3.2956495285 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.2372927666 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.3668670654 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 6.1454095840 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9041678905 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.7830066681 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.6246356964 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7041735649 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 6.3552184105 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 15.6111583710 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.7592861652 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.0153768063 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 3.0159933567 
- Genero: ['forro' => 'forro']; Menor distancia 2.7470898628 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 7.7619280815 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.4682350159 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 6.1316232681 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.9410533905 
- Genero: ['forro' => 'forro']; Menor distancia 2.4394860268 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.5236511230 
- Genero: ['forro' => 'forro']; Menor distancia 2.4149682522 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.2568538189 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.6140289307 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 6.6398091316 
- Genero: ['axe' => 'axe']; Menor distancia 3.1318733692 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 7.8019928932 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.7851591110 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.6372547150 
- Genero: ['axe' => 'axe']; Menor distancia 3.3552227020 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.6528131962 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5863845348 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.5319399834 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 5.7423734665 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9788591862 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.8192446232 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.2910172939 
- Genero: ['forro' => 'bossa_nova']; Menor distancia 5.6673479080 
- Genero: ['axe' => 'axe']; Menor distancia 2.5513737202 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 5.4831876755 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.8207077980 
- Genero: ['sertanejo' => 'axe']; Menor distancia 8.3738174438 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 4.5711593628 
- Genero: ['axe' => 'forro']; Menor distancia 2.5939548016 
- Genero: ['axe' => 'axe']; Menor distancia 3.7106199265 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0543913841 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.1011195183 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 13.3856582642 
- Genero: ['forro' => 'forro']; Menor distancia 3.8903532028 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0343849659 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 3.3373963833 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.7802767754 
- Genero: ['axe' => 'forro']; Menor distancia 3.2856783867 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.3005189896 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0190205574 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.0299692154 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 4.4546728134 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.5424134731 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.1324937344 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 5.1355357170 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 6.8812146187 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 5.6824498177 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.2708430290 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.7023477554 
- Genero: ['axe' => 'axe']; Menor distancia 5.9613838196 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.5437123775 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 9.1604518890 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.0706148148 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.8706877232 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.4095249176 
- Genero: ['axe' => 'forro']; Menor distancia 2.9308240414 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.6350359917 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 4.0775232315 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.7292270660 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.4625263214 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 2.5526921749 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 2.4497804642 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.6188900471 
- Genero: ['forro' => 'rap_hip_hop']; Menor distancia 6.8133826256 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.7886307240 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 6.3521866798 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.4369792938 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.9743001461 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.7828426361 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.4004068375 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.8966653347 
- Genero: ['sertanejo' => 'forro']; Menor distancia 4.4946041107 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.6955685616 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.5977582932 
- Genero: ['forro' => 'axe']; Menor distancia 3.5895500183 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.7029078007 
- Genero: ['axe' => 'sertanejo']; Menor distancia 5.0748410225 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.8604958057 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.9719457626 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 6.9614124298 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.5067672729 
- Genero: ['forro' => 'forro']; Menor distancia 4.6188535690 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 5.3898348808 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.7299437523 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9406490326 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 6.4198327065 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.2135004997 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 4.0159077644 
- Genero: ['axe' => 'axe']; Menor distancia 4.3810186386 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.5747103691 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 2.6600556374 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.7230117321 
- Genero: ['forro' => 'forro']; Menor distancia 2.4127643108 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.5642254353 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.2921495438 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.8526356220 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.9795250893 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.1263735294 
- Genero: ['forro' => 'forro']; Menor distancia 3.2495775223 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.1967577934 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 8.2228965759 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.3828430176 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5042040348 
- Genero: ['axe' => 'forro']; Menor distancia 3.2262237072 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3939466476 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 11.5742492676 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.1718492508 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.4315688610 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 6.9742517471 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.7662758827 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.1879847050 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.9061760902 
- Genero: ['sertanejo' => 'forro']; Menor distancia 4.1379299164 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.0258183479 
- Genero: ['axe' => 'axe']; Menor distancia 5.6940078735 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.8827645779 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.1701052189 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 4.4108805656 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 7.1255259514 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.2465679646 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.3192961216 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.2016105652 
- Genero: ['axe' => 'axe']; Menor distancia 2.8699240685 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.5634484291 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.1402862072 
- Genero: ['forro' => 'forro']; Menor distancia 2.5342910290 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.8518047333 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 4.8386244774 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 7.2732062340 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.5679268837 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.3049018383 
- Genero: ['forro' => 'forro']; Menor distancia 1.7063366175 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 6.5800600052 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.3417484760 
- Genero: ['axe' => 'axe']; Menor distancia 5.5634946823 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3019967079 
- Genero: ['forro' => 'forro']; Menor distancia 2.7958099842 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 9.0746364594 
- Genero: ['axe' => 'sertanejo']; Menor distancia 6.6924304962 
- Genero: ['forro' => 'forro']; Menor distancia 2.8930811882 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 1.1460981369 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 2.8125293255 
- Genero: ['forro' => 'forro']; Menor distancia 2.4216365814 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.2701704502 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 4.2731094360 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.8536114693 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.3775005341 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.3905143738 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 2.9837615490 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 4.5315394402 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.7518451214 
- Genero: ['forro' => 'axe']; Menor distancia 6.7237548828 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5599040985 
- Genero: ['axe' => 'axe']; Menor distancia 4.5652461052 
- Genero: ['forro' => 'sertanejo']; Menor distancia 3.1056888103 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 4.9600625038 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7829427719 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.5549135208 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.7832369804 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3674590588 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.3244802952 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.4431805611 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.1097142696 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 4.1829609871 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.2627944946 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.1170368195 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.2633957863 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.7907280922 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.5310111046 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 9.7473878860 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 5.6675519943 
- Genero: ['forro' => 'axe']; Menor distancia 2.5489146709 
- Genero: ['forro' => 'axe']; Menor distancia 3.0302441120 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.2275590897 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.2944729328 
- Genero: ['axe' => 'forro']; Menor distancia 2.8499789238 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.7920088768 
- Genero: ['axe' => 'forro']; Menor distancia 2.2374482155 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 6.5387864113 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.3616347313 
- Genero: ['forro' => 'axe']; Menor distancia 2.8201267719 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.2603597641 
- Genero: ['forro' => 'forro']; Menor distancia 2.6877264977 
- Genero: ['forro' => 'forro']; Menor distancia 2.2575125694 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 4.2129125595 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 3.6517388821 
- Genero: ['forro' => 'forro']; Menor distancia 2.6508929729 
- Genero: ['forro' => 'forro']; Menor distancia 2.4975314140 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.9263951778 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 2.4215633869 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.1399683952 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 2.9472205639 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 3.0138754845 
- Genero: ['forro' => 'forro']; Menor distancia 2.2163734436 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 6.2038087845 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.3794767857 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 10.3766155243 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.1917080879 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 2.3452031612 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 4.4707617760 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 4.6759328842 
- Genero: ['axe' => 'forro']; Menor distancia 4.1280226707 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.4255459309 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 4.5044264793 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 5.8288950920 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 6.5027346611 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.2983508110 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 2.9828820229 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 4.7656660080 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.1437587738 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.5570950508 
- Genero: ['sertanejo' => 'axe']; Menor distancia 5.8649168015 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 5.6574931145 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.0256500244 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 9.4965591431 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 4.4626808167 
- Genero: ['sertanejo' => 'axe']; Menor distancia 5.1261506081 
- Genero: ['axe' => 'rap_hip_hop']; Menor distancia 5.4688448906 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 5.1342978477 
- Genero: ['axe' => 'axe']; Menor distancia 2.5384521484 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.8649623394 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.1982092857 
- Genero: ['forro' => 'rap_hip_hop']; Menor distancia 5.3694810867 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 2.9172456264 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.3148620129 
- Genero: ['forro' => 'forro']; Menor distancia 6.6567316055 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5554118156 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.1538836956 
- Genero: ['forro' => 'axe']; Menor distancia 2.4397628307 
- Genero: ['axe' => 'axe']; Menor distancia 2.6109094620 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 5.7709336281 
- Genero: ['forro' => 'axe']; Menor distancia 3.2895815372 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.8534331322 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.4364886284 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.5873990059 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.9705944061 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.8173999786 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.8972222805 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 4.3404660225 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.3019473553 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.2872858047 
- Genero: ['axe' => 'axe']; Menor distancia 2.7784287930 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.5195083618 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 8.4247303009 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.3864607811 
- Genero: ['bossa_nova' => 'rap_hip_hop']; Menor distancia 4.5929484367 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 2.6196966171 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5507707596 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 6.3053631783 
- Genero: ['forro' => 'forro']; Menor distancia 2.4127643108 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.2005660534 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.8903625011 
- Genero: ['forro' => 'bossa_nova']; Menor distancia 9.0861673355 
- Genero: ['forro' => 'axe']; Menor distancia 2.8873710632 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 10.5362300873 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 1.9971611500 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.2002191544 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.4745578766 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.7528328896 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.7535967827 
- Genero: ['axe' => 'axe']; Menor distancia 3.4595842361 
- Genero: ['axe' => 'forro']; Menor distancia 2.8086557388 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 5.8551359177 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.6613402367 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.5432324409 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.8350818157 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.8244338036 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.4415035248 
- Genero: ['forro' => 'forro']; Menor distancia 2.4127643108 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.2091040611 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 3.2735486031 
- Genero: ['forro' => 'axe']; Menor distancia 11.7049808502 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'bossa_nova']; Menor distancia 9.0071477890 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.4593238831 
- Genero: ['forro' => 'forro']; Menor distancia 2.2243151665 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.8309972286 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 3.1741321087 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 5.8590655327 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.4567341805 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 2.8607549667 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 8.8791189194 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 3.5530395508 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 6.1062126160 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.6200535297 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 5.2274346352 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 3.7881264687 
- Genero: ['sertanejo' => 'axe']; Menor distancia 3.5606067181 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 2.7559435368 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.4463095665 
- Genero: ['axe' => 'forro']; Menor distancia 2.9544939995 
- Genero: ['forro' => 'forro']; Menor distancia 3.4762949944 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 5.2302398682 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.5191750526 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.3176097870 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.6028523445 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.1828539371 
- Genero: ['forro' => 'forro']; Menor distancia 2.8707256317 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.0044283867 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.7989125252 
- Genero: ['forro' => 'forro']; Menor distancia 2.2084553242 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 5.1791763306 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.5901165009 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 7.6860570908 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.2820034027 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.2254145145 
- Genero: ['axe' => 'axe']; Menor distancia 2.4030756950 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 3.7093381882 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.8931200504 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.1986660957 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.2889866829 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.2753996849 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 2.9156055450 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.3354249001 
- Genero: ['axe' => 'axe']; Menor distancia 2.7334699631 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.6875765324 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.8522393703 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 1.4667819738 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.2646033764 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.1685333252 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 6.5803408623 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 7.8616681099 
- Genero: ['axe' => 'forro']; Menor distancia 8.3939418793 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.3592479229 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.3228712082 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 8.7979249954 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.7662038803 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.4105079174 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.6912951469 
- Genero: ['axe' => 'axe']; Menor distancia 3.5282447338 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 6.1509242058 
- Genero: ['axe' => 'axe']; Menor distancia 5.8564939499 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.2806038857 
- Genero: ['forro' => 'bossa_nova']; Menor distancia 7.7974915504 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7429070473 
- Genero: ['axe' => 'axe']; Menor distancia 3.6433577538 
- Genero: ['axe' => 'axe']; Menor distancia 2.2025365829 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 8.3122501373 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.2167561054 
- Genero: ['forro' => 'forro']; Menor distancia 1.0633708239 
- Genero: ['forro' => 'axe']; Menor distancia 3.6938164234 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 5.7440834045 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.8152914047 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.5220417976 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5615861416 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 4.8675303459 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 3.4742605686 
- Genero: ['axe' => 'axe']; Menor distancia 4.3356719017 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.1518776417 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.7752268314 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 5.7589368820 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.6857986450 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.4039750099 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.7592709064 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.8454394341 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.9655773640 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.4639649391 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 4.4276046753 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.2983508110 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.4262833595 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.3264882565 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.3528461456 
- Genero: ['forro' => 'axe']; Menor distancia 2.6510486603 
- Genero: ['forro' => 'forro']; Menor distancia 3.2265219688 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.7822902203 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 4.8820714951 
- Genero: ['axe' => 'forro']; Menor distancia 4.7877168655 
- Genero: ['forro' => 'axe']; Menor distancia 2.7645249367 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.5785584450 
- Genero: ['forro' => 'forro']; Menor distancia 2.8261768818 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.9351420403 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.4134740829 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4051511288 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.9218130112 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 4.1959528923 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.9156615734 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.2288074493 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9513802528 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 3.2105579376 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'axe']; Menor distancia 3.3391978741 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.7980196476 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.3084146976 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.6203918457 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.7030270100 
- Genero: ['forro' => 'axe']; Menor distancia 5.8189988136 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 5.0801849365 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'forro']; Menor distancia 5.5860714912 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.7105655670 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.2354412079 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 2.5819816589 
- Genero: ['forro' => 'forro']; Menor distancia 8.1559400558 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.8826134205 
- Genero: ['axe' => 'axe']; Menor distancia 2.3215560913 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 6.3045172691 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.5683495998 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 3.8235361576 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 4.2218770981 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 7.7313532829 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 7.0961880684 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 6.9693541527 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 8.6282472610 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.6868886948 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.9619688988 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.6498408318 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.7124090195 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7014751434 
- Genero: ['axe' => 'axe']; Menor distancia 2.4159543514 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 3.4275557995 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.7415809631 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.6023807526 
- Genero: ['forro' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 2.6979451180 
- Genero: ['axe' => 'axe']; Menor distancia 2.0177066326 
- Genero: ['forro' => 'bossa_nova']; Menor distancia 7.3912563324 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.3412652016 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 5.4844803810 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3228127956 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 2.9431273937 
- Genero: ['axe' => 'sertanejo']; Menor distancia 6.2380390167 
- Genero: ['forro' => 'forro']; Menor distancia 3.0081427097 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.8411159515 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.4776422977 
- Genero: ['forro' => 'axe']; Menor distancia 6.5307950974 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.9236001968 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.8444683552 
- Genero: ['forro' => 'forro']; Menor distancia 3.7751410007 
- Genero: ['axe' => 'axe']; Menor distancia 4.8559131622 
- Genero: ['axe' => 'sertanejo']; Menor distancia 3.3773663044 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.2399213314 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.6245043278 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 3.6466441154 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 5.3727273941 
- Genero: ['axe' => 'bossa_nova']; Menor distancia 3.8560960293 
- Genero: ['forro' => 'forro']; Menor distancia 2.9588954449 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.7824654579 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.8573446274 
- Genero: ['forro' => 'forro']; Menor distancia 3.2142736912 
- Genero: ['forro' => 'rap_hip_hop']; Menor distancia 2.5808207989 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.2119240761 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.9661426544 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.2743990421 
- Genero: ['forro' => 'forro']; Menor distancia 3.9794349670 
- Genero: ['axe' => 'forro']; Menor distancia 4.8952164650 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5146210194 
- Genero: ['forro' => 'forro']; Menor distancia 2.7397007942 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.2003417015 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9436345100 
- Genero: ['forro' => 'forro']; Menor distancia 2.2395932674 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.7253100872 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.5468153954 
- Genero: ['axe' => 'rap_hip_hop']; Menor distancia 7.2873368263 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 4.2218770981 
- Genero: ['axe' => 'forro']; Menor distancia 3.7451536655 
- Genero: ['axe' => 'axe']; Menor distancia 2.7146995068 
- Genero: ['forro' => 'axe']; Menor distancia 2.4100830555 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 4.1467914581 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.7469263077 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 1.9867973328 
- Genero: ['forro' => 'forro']; Menor distancia 3.4581468105 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.1800394058 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.1231298447 
- Genero: ['axe' => 'axe']; Menor distancia 3.9429094791 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 6.3012771606 
- Genero: ['axe' => 'sertanejo']; Menor distancia 5.1908817291 
- Genero: ['forro' => 'forro']; Menor distancia 2.5063600540 
- Genero: ['sertanejo' => 'axe']; Menor distancia 3.5086829662 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 4.8209981918 
- Genero: ['forro' => 'axe']; Menor distancia 2.6089267731 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.3818273544 
- Genero: ['forro' => 'forro']; Menor distancia 2.9531843662 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.8589274883 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.7628831863 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.6072373390 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 2.6607558727 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.1304314137 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.8585202694 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.4811224937 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.3285455704 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.0506281853 
- Genero: ['forro' => 'sertanejo']; Menor distancia 3.4031641483 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 4.8085503578 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 4.8497738838 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 8.7351474762 
- Genero: ['axe' => 'axe']; Menor distancia 5.1962480545 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.7333853245 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.1974096298 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.2697167397 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.3404734135 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 5.8082561493 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.4638795853 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 4.6580295563 
- Genero: ['axe' => 'forro']; Menor distancia 3.7955980301 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 2.3390793800 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7794780731 
- Genero: ['axe' => 'axe']; Menor distancia 2.3842709064 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.4813759327 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.8999404907 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.5203261375 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.7969210148 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.3257296085 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 5.7892880440 
- Genero: ['axe' => 'axe']; Menor distancia 4.2889509201 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.1077957153 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 7.2428765297 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9006209373 
- Genero: ['forro' => 'bossa_nova']; Menor distancia 6.7338838577 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 7.3324680328 
- Genero: ['axe' => 'axe']; Menor distancia 2.7489688396 
- Genero: ['forro' => 'forro']; Menor distancia 4.4577188492 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 3.0319876671 
- Genero: ['axe' => 'axe']; Menor distancia 2.8991975784 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.2267305851 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.2189345360 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.5755488873 
- Genero: ['axe' => 'axe']; Menor distancia 5.2274422646 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.7878239155 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 5.0608115196 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 7.0832929611 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.1844930649 
- Genero: ['forro' => 'forro']; Menor distancia 2.8892664909 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 10.0356597900 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.6861824989 
- Genero: ['forro' => 'forro']; Menor distancia 4.0997838974 
- Genero: ['axe' => 'forro']; Menor distancia 4.4803409576 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.9635138512 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'sertanejo']; Menor distancia 5.5758166313 
- Genero: ['forro' => 'forro']; Menor distancia 2.3095972538 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.6259410381 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.6041655540 
- Genero: ['forro' => 'forro']; Menor distancia 2.3617026806 
- Genero: ['axe' => 'axe']; Menor distancia 5.2476730347 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.8610877991 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 7.1174831390 
- Genero: ['forro' => 'forro']; Menor distancia 3.6470091343 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.2525143623 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.9020173550 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 6.5851926804 
- Genero: ['axe' => 'axe']; Menor distancia 3.5436971188 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.6577877998 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 4.9196987152 
- Genero: ['axe' => 'axe']; Menor distancia 3.4118921757 
- Genero: ['sertanejo' => 'axe']; Menor distancia 4.0402050018 
- Genero: ['axe' => 'axe']; Menor distancia 3.7850074768 
- Genero: ['forro' => 'axe']; Menor distancia 5.5970253944 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.1142988205 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.3540291786 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 7.2764000893 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.4763002396 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.7432475090 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 4.2812504768 
- Genero: ['forro' => 'sertanejo']; Menor distancia 3.3619301319 
- Genero: ['axe' => 'axe']; Menor distancia 3.5278134346 
- Genero: ['axe' => 'axe']; Menor distancia 2.4375100136 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.8477444649 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.7388243675 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.3189535141 
- Genero: ['forro' => 'axe']; Menor distancia 5.1460242271 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 5.1738777161 
- Genero: ['axe' => 'forro']; Menor distancia 3.7769885063 
- Genero: ['sertanejo' => 'axe']; Menor distancia 5.5667061806 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.9739332199 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.7929930687 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 3.0420689583 
- Genero: ['axe' => 'axe']; Menor distancia 4.0084147453 
- Genero: ['axe' => 'axe']; Menor distancia 2.4385161400 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.3418459892 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.4512667656 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.9148569107 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.8095412254 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 27.7028198242 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.4694862366 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 4.4034190178 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.7527873516 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.3667840958 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.7005414963 
- Genero: ['sertanejo' => 'forro']; Menor distancia 1.9254422188 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.2702860832 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 3.5477411747 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 4.9081802368 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.7122230530 
- Genero: ['axe' => 'forro']; Menor distancia 4.5052905083 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 6.5692386627 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.6619737148 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 3.5394146442 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 3.9727003574 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.1157410145 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.4203996658 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 9.5743207932 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.1230337620 
- Genero: ['forro' => 'forro']; Menor distancia 4.5944514275 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.1014292240 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5287168026 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 8.7735414505 
- Genero: ['bossa_nova' => 'rap_hip_hop']; Menor distancia 7.4465675354 
- Genero: ['forro' => 'forro']; Menor distancia 2.4078843594 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 5.0990896225 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0467982292 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.8290815353 
- Genero: ['forro' => 'forro']; Menor distancia 2.3484566212 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 4.8496036530 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.8197207451 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.5299375057 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.8861529827 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 6.2040977478 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.5473220348 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.0939297676 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 3.5196986198 
- Genero: ['forro' => 'axe']; Menor distancia 5.5276226997 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.4652013779 
- Genero: ['forro' => 'forro']; Menor distancia 3.0507516861 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 3.2738480568 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 3.6281249523 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 6.9838881493 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 6.5421476364 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.2774832249 
- Genero: ['forro' => 'forro']; Menor distancia 2.8901767731 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.1840753555 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 2.5431873798 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 5.3138093948 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 5.9928998947 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.9881281853 
- Genero: ['forro' => 'bossa_nova']; Menor distancia 2.2922043800 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 7.7457242012 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 8.6410093307 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.4208145142 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 9.2240285873 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 5.2428860664 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.1650159359 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.7746672630 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 5.5253424644 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.3680746555 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.9481492043 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 3.0208625793 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9739682674 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 7.4853615761 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.5950813293 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.4114487171 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.4576168060 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.6888444424 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 4.4466376305 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'forro']; Menor distancia 3.2856783867 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.7042417526 
- Genero: ['forro' => 'forro']; Menor distancia 2.6550333500 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0355873108 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.5517041683 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.5019721985 
- Genero: ['axe' => 'forro']; Menor distancia 4.8339838982 
- Genero: ['forro' => 'forro']; Menor distancia 3.9260985851 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3022282124 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 2.8970024586 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.6604325771 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 4.3891320229 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.0123281479 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.8398838043 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.9549779892 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 5.5771236420 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7081308365 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.9409327507 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7932415009 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'rap_hip_hop']; Menor distancia 3.9528391361 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 2.7097654343 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 6.0213074684 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'forro']; Menor distancia 2.2221941948 
- Genero: ['axe' => 'sertanejo']; Menor distancia 5.6532855034 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.6548914909 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 2.9948821068 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'forro']; Menor distancia 6.4834017754 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.3636932373 
- Genero: ['forro' => 'axe']; Menor distancia 2.2746064663 
- Genero: ['axe' => 'axe']; Menor distancia 6.0200166702 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9824118614 
- Genero: ['forro' => 'forro']; Menor distancia 2.2749419212 
- Genero: ['forro' => 'forro']; Menor distancia 3.1787571907 
- Genero: ['forro' => 'forro']; Menor distancia 2.6612412930 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 5.7641415596 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.3362953663 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.2302336693 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.8604407310 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 3.3069815636 
- Genero: ['axe' => 'axe']; Menor distancia 3.3801953793 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.8033249378 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 3.5589191914 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 5.2808427811 
- Genero: ['forro' => 'axe']; Menor distancia 5.1387643814 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 3.8683509827 
- Genero: ['axe' => 'axe']; Menor distancia 4.1291847229 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.9580638409 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.2437086105 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 4.5500974655 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.3252406120 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 2.9849224091 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'sertanejo']; Menor distancia 4.5674281120 
- Genero: ['axe' => 'bossa_nova']; Menor distancia 7.8565692902 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5959901810 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 4.5721435547 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 4.5961375237 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 3.0562319756 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.8176131248 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 4.3725600243 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.0317051411 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.2524423599 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.6847066879 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 4.2902050018 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.7928218842 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.5360608101 
- Genero: ['forro' => 'forro']; Menor distancia 2.3040311337 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4949269295 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.4301335812 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 7.4598693848 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.2816638947 
- Genero: ['axe' => 'forro']; Menor distancia 2.7373750210 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.0021605492 
- Genero: ['forro' => 'forro']; Menor distancia 3.7210035324 
- Genero: ['axe' => 'axe']; Menor distancia 2.7210879326 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.5325694084 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 7.5572943687 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 4.3963880539 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.4940471649 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.9248878956 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.2937893867 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.8686926365 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.8141503334 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.2819352150 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 5.6723260880 
- Genero: ['axe' => 'axe']; Menor distancia 2.2169575691 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7310028076 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'forro']; Menor distancia 2.5144250393 
- Genero: ['axe' => 'axe']; Menor distancia 2.7683908939 
- Genero: ['forro' => 'axe']; Menor distancia 3.4379038811 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 5.3842582703 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.1551604271 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0185368061 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 1.9636000395 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7903323174 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.4293136597 
- Genero: ['axe' => 'axe']; Menor distancia 3.8810658455 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.4704799652 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 5.5013213158 
- Genero: ['forro' => 'bossa_nova']; Menor distancia 5.8716597557 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 2.7752408981 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.9811639786 
- Genero: ['sertanejo' => 'axe']; Menor distancia 4.0570826530 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.2408087254 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 6.4772934914 
- Genero: ['sertanejo' => 'forro']; Menor distancia 8.0774564743 
- Genero: ['sertanejo' => 'forro']; Menor distancia 7.1793484688 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 5.5985102654 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.0650613308 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.3614032269 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 4.4107546806 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 3.6727638245 
- Genero: ['axe' => 'axe']; Menor distancia 3.1336479187 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.9527571201 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.9779968262 
- Genero: ['forro' => 'axe']; Menor distancia 5.0143098831 
- Genero: ['forro' => 'axe']; Menor distancia 3.0377516747 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 3.6719944477 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.6575407982 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.5057296753 
- Genero: ['axe' => 'forro']; Menor distancia 11.3705167770 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.5241250992 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.0788784027 
- Genero: ['axe' => 'axe']; Menor distancia 4.3699340820 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.2519509792 
- Genero: ['forro' => 'forro']; Menor distancia 2.5555176735 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.7657766342 
- Genero: ['axe' => 'axe']; Menor distancia 2.6832640171 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9526243210 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.5506424904 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.2930026054 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 2.5145385265 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.2605092525 
- Genero: ['forro' => 'forro']; Menor distancia 3.3124134541 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 6.0298738480 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.3173866272 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.1542515755 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 6.2036685944 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 11.3549757004 
- Genero: ['forro' => 'axe']; Menor distancia 2.9541902542 
- Genero: ['axe' => 'axe']; Menor distancia 3.7068626881 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.3937289715 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.1636562347 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 6.6523475647 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.9866623878 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.7944269180 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.2757232189 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.3930420876 
- Genero: ['forro' => 'sertanejo']; Menor distancia 9.0703821182 
- Genero: ['forro' => 'axe']; Menor distancia 6.0559363365 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 7.2679381371 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 6.9867544174 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.7311973572 
- Genero: ['forro' => 'axe']; Menor distancia 2.8802824020 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3108990192 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.7635014057 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 4.1318140030 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 5.2000617981 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.1916346550 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.9233551025 
- Genero: ['axe' => 'forro']; Menor distancia 5.6184535027 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7751908302 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 2.8308937550 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.3863067627 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 4.4153342247 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.3296551704 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.8560671806 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.2525143623 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'sertanejo']; Menor distancia 3.0794775486 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 6.1391839981 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.8670101166 
- Genero: ['forro' => 'forro']; Menor distancia 1.9933526516 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 12.0395889282 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.2248332500 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.5208880901 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.5755233765 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.4772732258 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.9942417145 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 27.9027805328 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.4588603973 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 32.3686943054 
- Genero: ['sertanejo' => 'axe']; Menor distancia 3.0583603382 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.6251912117 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.5770108700 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.3667833805 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 4.7620973587 
- Genero: ['forro' => 'forro']; Menor distancia 2.6367831230 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 7.8039155006 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.6569397449 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.6631817818 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.2910089493 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 1.9979294538 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.3480179310 
- Genero: ['axe' => 'axe']; Menor distancia 3.7233600616 
- Genero: ['axe' => 'axe']; Menor distancia 3.4965326786 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.2949662209 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 5.0282764435 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.3978810310 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.9725420475 
- Genero: ['axe' => 'axe']; Menor distancia 3.5689799786 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.0668749809 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 6.4480772018 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 6.4258108139 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 5.7327394485 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.5299630165 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 5.9732275009 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 3.8658502102 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.1276054382 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.5060424805 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.3924643993 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 11.7662963867 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.3715436459 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 5.5282130241 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.7837185860 
- Genero: ['forro' => 'axe']; Menor distancia 4.7135844231 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 4.8736476898 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9420635700 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 3.7216446400 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.0039997101 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.6654751301 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5646660328 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.2400610447 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.3873865604 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 5.3476119041 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.2669117451 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.1082201004 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 3.3550438881 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 6.4674119949 
- Genero: ['axe' => 'axe']; Menor distancia 3.0135383606 
- Genero: ['forro' => 'forro']; Menor distancia 4.7674674988 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.5839357376 
- Genero: ['axe' => 'rap_hip_hop']; Menor distancia 6.7623748779 
- Genero: ['bossa_nova' => 'rap_hip_hop']; Menor distancia 4.8101706505 
- Genero: ['forro' => 'sertanejo']; Menor distancia 3.6120998859 
- Genero: ['forro' => 'forro']; Menor distancia 4.4495429993 
- Genero: ['axe' => 'forro']; Menor distancia 4.2418394089 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 4.5617594719 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.1047987938 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.3894808292 
- Genero: ['forro' => 'forro']; Menor distancia 2.3040311337 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.7563130856 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.2842330933 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.3818478584 
- Genero: ['axe' => 'sertanejo']; Menor distancia 5.4573264122 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.5646867752 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 4.0356993675 
- Genero: ['axe' => 'axe']; Menor distancia 4.1268005371 
- Genero: ['forro' => 'forro']; Menor distancia 5.6824731827 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.9500014782 
- Genero: ['axe' => 'rap_hip_hop']; Menor distancia 3.0758867264 
- Genero: ['axe' => 'sertanejo']; Menor distancia 6.2001786232 
- Genero: ['forro' => 'forro']; Menor distancia 1.1267051697 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.7607765198 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.0479660034 
- Genero: ['forro' => 'forro']; Menor distancia 2.4381325245 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 4.3182511330 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 6.2445197105 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.5265026093 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 6.2038087845 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.4579951763 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 2.8507163525 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 8.3407459259 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.1144247055 
- Genero: ['forro' => 'forro']; Menor distancia 2.5889348984 
- Genero: ['axe' => 'axe']; Menor distancia 2.6003453732 
- Genero: ['axe' => 'axe']; Menor distancia 3.2236697674 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.8912758827 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0785629749 
- Genero: ['forro' => 'axe']; Menor distancia 3.9369087219 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.3761382103 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'rap_hip_hop']; Menor distancia 4.8404974937 
- Genero: ['axe' => 'forro']; Menor distancia 3.5134017467 
- Genero: ['forro' => 'forro']; Menor distancia 2.7390046120 
- Genero: ['forro' => 'forro']; Menor distancia 5.5373368263 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.6999335289 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.8498032093 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.9018902779 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.3287439346 
- Genero: ['forro' => 'forro']; Menor distancia 2.2477962971 
- Genero: ['axe' => 'sertanejo']; Menor distancia 4.9324383736 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 5.0467195511 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.5609667301 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.9710960388 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 4.8424468040 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 4.1544194221 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 5.5571718216 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 5.6159005165 
- Genero: ['sertanejo' => 'forro']; Menor distancia 4.4133195877 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.7733316422 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.2034587860 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.1962311268 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3195452690 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.6619238853 
- Genero: ['axe' => 'sertanejo']; Menor distancia 5.9410552979 
- Genero: ['axe' => 'axe']; Menor distancia 4.2547478676 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 5.3022241592 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 7.9806928635 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 4.3743906021 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.2281913757 
- Genero: ['sertanejo' => 'axe']; Menor distancia 3.0410706997 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.5154271126 
- Genero: ['forro' => 'rap_hip_hop']; Menor distancia 4.1085896492 
- Genero: ['forro' => 'axe']; Menor distancia 3.9186613560 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.1279368401 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 3.9884276390 
- Genero: ['axe' => 'axe']; Menor distancia 2.3175859451 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 9.4516925812 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 8.5316667557 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.7554435730 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.0280513763 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.9326534271 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.4078354836 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 6.4457654953 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.7075731754 
- Genero: ['forro' => 'forro']; Menor distancia 3.4184901714 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.3775005341 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.0222795010 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.9256114960 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 6.3638110161 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.7825591564 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.2677962780 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 7.1737599373 
- Genero: ['axe' => 'axe']; Menor distancia 2.4147472382 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 4.0698657036 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.3403587341 
- Genero: ['forro' => 'forro']; Menor distancia 2.9176795483 
- Genero: ['axe' => 'sertanejo']; Menor distancia 4.8120079041 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 4.6211705208 
- Genero: ['axe' => 'forro']; Menor distancia 3.7974321842 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.4770081043 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.1034111977 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.1129422188 
- Genero: ['axe' => 'axe']; Menor distancia 3.4347348213 
- Genero: ['forro' => 'forro']; Menor distancia 4.4959616661 
- Genero: ['axe' => 'axe']; Menor distancia 3.9980802536 
- Genero: ['axe' => 'forro']; Menor distancia 2.9930298328 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.6768367290 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.5554223061 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.4610047340 
- Genero: ['forro' => 'forro']; Menor distancia 2.3544380665 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.4262681007 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 5.9665207863 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 20.2171497345 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.0159091949 
- Genero: ['axe' => 'forro']; Menor distancia 2.5929174423 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.9306085110 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 3.2482600212 
- Genero: ['forro' => 'forro']; Menor distancia 2.8259072304 
- Genero: ['sertanejo' => 'axe']; Menor distancia 3.9118833542 
- Genero: ['forro' => 'forro']; Menor distancia 2.9063143730 
- Genero: ['axe' => 'forro']; Menor distancia 3.4876234531 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 4.0506281853 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.1303300858 
- Genero: ['sertanejo' => 'forro']; Menor distancia 5.0091886520 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.0248038769 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.8649387360 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.3950991631 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 2.8892796040 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 2.8465571404 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 3.6891403198 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 5.0368638039 
- Genero: ['forro' => 'rap_hip_hop']; Menor distancia 4.5270977020 
- Genero: ['forro' => 'sertanejo']; Menor distancia 3.8011448383 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3201270103 
- Genero: ['forro' => 'forro']; Menor distancia 2.4979596138 
- Genero: ['forro' => 'bossa_nova']; Menor distancia 5.8632874489 
- Genero: ['sertanejo' => 'forro']; Menor distancia 5.6228652000 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 3.9949071407 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 8.1124753952 
- Genero: ['forro' => 'axe']; Menor distancia 6.0369148254 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 3.0204052925 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.4595263004 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'axe']; Menor distancia 2.9737911224 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.7362148762 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.6479470730 
- Genero: ['forro' => 'forro']; Menor distancia 5.1080350876 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 5.0039367676 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.3001334667 
- Genero: ['forro' => 'forro']; Menor distancia 1.8766083717 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.9742987156 
- Genero: ['forro' => 'forro']; Menor distancia 3.6473166943 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.0995659828 
- Genero: ['axe' => 'axe']; Menor distancia 2.9802660942 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 5.8113207817 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.8116760254 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.2563288212 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 3.6410489082 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 6.7542519569 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4199497700 
- Genero: ['axe' => 'axe']; Menor distancia 3.1578047276 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 2.1393692493 
- Genero: ['axe' => 'axe']; Menor distancia 2.9775753021 
- Genero: ['forro' => 'forro']; Menor distancia 2.5059692860 
- Genero: ['forro' => 'forro']; Menor distancia 3.5743317604 
- Genero: ['sertanejo' => 'forro']; Menor distancia 8.4108047485 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.8332552910 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 5.1103706360 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'axe']; Menor distancia 4.4060149193 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.3557362556 
- Genero: ['forro' => 'forro']; Menor distancia 2.3110961914 
- Genero: ['axe' => 'forro']; Menor distancia 3.8287780285 
- Genero: ['forro' => 'forro']; Menor distancia 2.4253075123 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.4935603142 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.1113851070 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.4610085487 
- Genero: ['forro' => 'forro']; Menor distancia 2.4671347141 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.9477858543 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.1230702400 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 5.8221821785 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.2689342499 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.7562549114 
- Genero: ['axe' => 'axe']; Menor distancia 3.9642641544 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.1863143444 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 6.0771875381 
- Genero: ['forro' => 'forro']; Menor distancia 3.4943766594 
- Genero: ['axe' => 'axe']; Menor distancia 2.9593987465 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'forro']; Menor distancia 1.9750509262 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.3584446907 
- Genero: ['axe' => 'axe']; Menor distancia 2.1535091400 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 9.7117309570 
- Genero: ['forro' => 'axe']; Menor distancia 4.3601145744 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 10.6495456696 
- Genero: ['forro' => 'forro']; Menor distancia 3.8828933239 
- Genero: ['axe' => 'axe']; Menor distancia 2.7780511379 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.3528001308 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 6.6122999191 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.0388813019 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 2.8419201374 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.9268999100 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.5398755074 
- Genero: ['axe' => 'axe']; Menor distancia 3.6600582600 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 1.4667819738 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.1350922585 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 4.6200189590 
- Genero: ['rap_hip_hop' => 'bossa_nova']; Menor distancia 9.4299345016 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 4.3173322678 
- Genero: ['forro' => 'forro']; Menor distancia 3.3809309006 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.5552315712 
- Genero: ['forro' => 'forro']; Menor distancia 0.6995303631 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.2990746498 
- Genero: ['axe' => 'forro']; Menor distancia 3.3471553326 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.1830821037 
- Genero: ['forro' => 'axe']; Menor distancia 4.9400682449 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 1.0744504929 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.0190887451 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.8066048622 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.2578475475 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.2534937859 
- Genero: ['axe' => 'axe']; Menor distancia 5.1297111511 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.7345075607 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.4792504311 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 3.6665091515 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 6.4131889343 
- Genero: ['forro' => 'forro']; Menor distancia 2.3579809666 
- Genero: ['forro' => 'axe']; Menor distancia 7.2514605522 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 4.1680159569 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 5.1159372330 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.7752437592 
- Genero: ['forro' => 'forro']; Menor distancia 2.4089310169 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.0013761520 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.0828275681 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 6.6111245155 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.5807917118 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.6014552116 
- Genero: ['forro' => 'sertanejo']; Menor distancia 7.1494879723 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.0272636414 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.4013779163 
- Genero: ['forro' => 'forro']; Menor distancia 2.3772017956 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.8811805248 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9298868179 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.5042033195 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.6314249039 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.3424067497 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 6.3244361877 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 4.8389816284 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.3924925327 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.2271685600 
- Genero: ['sertanejo' => 'forro']; Menor distancia 5.5644793510 
- Genero: ['axe' => 'axe']; Menor distancia 3.9928061962 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 5.5698437691 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.9954838753 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.4185867310 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.0773260593 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5846037865 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.7020697594 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 4.2561635971 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.7297878265 
- Genero: ['forro' => 'axe']; Menor distancia 2.2550795078 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.2464420795 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.8334395885 
- Genero: ['axe' => 'axe']; Menor distancia 3.1671035290 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.3027577400 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 3.4829738140 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.4978778362 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5626478195 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.1721425056 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.0496258736 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 5.2064270973 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 4.4518842697 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.7269649506 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.6003520489 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.0747382641 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 2.9426462650 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 5.5643558502 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.2403845787 
- Genero: ['axe' => 'sertanejo']; Menor distancia 4.2654700279 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.0947546959 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.1209220886 
- Genero: ['axe' => 'axe']; Menor distancia 2.1706094742 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 8.4645729065 
- Genero: ['forro' => 'forro']; Menor distancia 1.3246549368 
- Genero: ['forro' => 'forro']; Menor distancia 2.5358927250 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.3558897972 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 3.1298358440 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 4.2409930229 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.8689346313 
- Genero: ['forro' => 'forro']; Menor distancia 3.2430448532 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 4.5360321999 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 6.6166310310 
- Genero: ['axe' => 'forro']; Menor distancia 2.9586310387 
- Genero: ['sertanejo' => 'axe']; Menor distancia 6.3847002983 
- Genero: ['axe' => 'axe']; Menor distancia 3.3478167057 
- Genero: ['sertanejo' => 'axe']; Menor distancia 5.0377645493 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 4.8245277405 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.0416579247 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 3.7518758774 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 4.5090727806 
- Genero: ['axe' => 'forro']; Menor distancia 3.1589543819 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 2.8156685829 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 10.3002786636 
- Genero: ['axe' => 'forro']; Menor distancia 2.8937966824 
- Genero: ['forro' => 'forro']; Menor distancia 2.6470646858 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 2.9758892059 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.6539046764 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.2238557339 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.7633371353 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.3461041451 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 6.3478064537 
- Genero: ['sertanejo' => 'forro']; Menor distancia 4.1317019463 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 3.0904073715 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.5236256123 
- Genero: ['forro' => 'forro']; Menor distancia 7.5470161438 
- Genero: ['axe' => 'axe']; Menor distancia 5.8636541367 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.3312528133 
- Genero: ['forro' => 'axe']; Menor distancia 2.3254313469 
- Genero: ['forro' => 'forro']; Menor distancia 2.9633646011 
- Genero: ['axe' => 'sertanejo']; Menor distancia 4.7959456444 
- Genero: ['forro' => 'forro']; Menor distancia 2.3729803562 
- Genero: ['sertanejo' => 'axe']; Menor distancia 4.5409574509 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.0763297081 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.4243736267 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 2.9546239376 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.6520013809 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.1003668308 
- Genero: ['forro' => 'axe']; Menor distancia 4.8795027733 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.8650255203 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.7851591110 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 3.0450940132 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.8533189297 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 7.0790739059 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.4422140121 
- Genero: ['axe' => 'bossa_nova']; Menor distancia 5.6042995453 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 5.8707036972 
- Genero: ['axe' => 'sertanejo']; Menor distancia 6.2529373169 
- Genero: ['axe' => 'forro']; Menor distancia 3.9335236549 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.9510664940 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 7.3544826508 
- Genero: ['axe' => 'axe']; Menor distancia 2.7977254391 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.3157572746 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.0346469879 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.2501335144 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.0837237835 
- Genero: ['forro' => 'forro']; Menor distancia 2.9100120068 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.7531859875 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.0241599083 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.1688413620 
- Genero: ['axe' => 'axe']; Menor distancia 4.4371838570 
- Genero: ['axe' => 'forro']; Menor distancia 4.7839808464 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.4067387581 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.0039997101 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.0097012520 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 4.1491212845 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.0483717918 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 4.6508498192 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.0051331520 
- Genero: ['axe' => 'axe']; Menor distancia 4.1344223022 
- Genero: ['axe' => 'forro']; Menor distancia 2.6921961308 
- Genero: ['forro' => 'forro']; Menor distancia 2.7317106724 
- Genero: ['forro' => 'forro']; Menor distancia 3.6208386421 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.1715555191 
- Genero: ['axe' => 'forro']; Menor distancia 2.6921961308 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.0349440575 
- Genero: ['forro' => 'forro']; Menor distancia 4.1565046310 
- Genero: ['forro' => 'forro']; Menor distancia 2.8724966049 
- Genero: ['forro' => 'sertanejo']; Menor distancia 5.2861714363 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.8291726112 
- Genero: ['axe' => 'forro']; Menor distancia 2.4121444225 
- Genero: ['forro' => 'axe']; Menor distancia 4.1784749031 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.0139036179 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.1992225647 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 1.6436696053 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.5621078014 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 5.9460883141 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.6535408497 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.6795399189 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.5234007835 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.7777724266 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9783976078 
- Genero: ['axe' => 'axe']; Menor distancia 3.0673727989 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.8553948402 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.2443661690 
- Genero: ['forro' => 'bossa_nova']; Menor distancia 5.3989629745 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.8300371170 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 4.6640353203 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.8463897705 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.4421861172 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.3581421375 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.1761293411 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.8662681580 
- Genero: ['axe' => 'forro']; Menor distancia 5.6222867966 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.0379877090 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.9369213581 
- Genero: ['axe' => 'axe']; Menor distancia 3.4786424637 
- Genero: ['forro' => 'forro']; Menor distancia 2.5912356377 
- Genero: ['axe' => 'axe']; Menor distancia 3.8418018818 
- Genero: ['forro' => 'sertanejo']; Menor distancia 5.6497526169 
- Genero: ['forro' => 'forro']; Menor distancia 0.9841323495 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.3005189896 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.2456338406 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 9.9491262436 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.1910028458 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.2687041759 
- Genero: ['forro' => 'forro']; Menor distancia 5.5324120522 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.5821475983 
- Genero: ['forro' => 'forro']; Menor distancia 2.5790326595 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 7.7457242012 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.6552834511 
- Genero: ['axe' => 'axe']; Menor distancia 4.1535706520 
- Genero: ['sertanejo' => 'axe']; Menor distancia 5.4999160767 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.1995730400 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.3825628757 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.2491202354 
- Genero: ['forro' => 'forro']; Menor distancia 5.3049006462 
- Genero: ['axe' => 'forro']; Menor distancia 6.0211787224 
- Genero: ['forro' => 'axe']; Menor distancia 2.3686928749 
- Genero: ['forro' => 'axe']; Menor distancia 2.8687415123 
- Genero: ['forro' => 'forro']; Menor distancia 1.9453537464 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.0935845375 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 3.2998015881 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 1.8606543541 
- Genero: ['axe' => 'forro']; Menor distancia 4.5424094200 
- Genero: ['sertanejo' => 'axe']; Menor distancia 4.7112278938 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.0970230103 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.9595689774 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.2755465508 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 5.8742060661 
- Genero: ['forro' => 'forro']; Menor distancia 3.1554334164 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.7701375484 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.9834032059 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.5506424904 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 2.4874939919 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.2133862972 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.7152345181 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 7.7039103508 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 3.9671537876 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 8.0763397217 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4078552723 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 3.2054753304 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 5.6897306442 
- Genero: ['axe' => 'axe']; Menor distancia 6.4089441299 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 6.7962160110 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 5.1321573257 
- Genero: ['axe' => 'axe']; Menor distancia 2.2236733437 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.3439364433 
- Genero: ['forro' => 'axe']; Menor distancia 2.5023620129 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.4970524311 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 3.4334518909 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 3.9986493587 
- Genero: ['forro' => 'forro']; Menor distancia 3.5151960850 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 10.3260021210 
- Genero: ['axe' => 'axe']; Menor distancia 3.1433556080 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 5.3912272453 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.9261023998 
- Genero: ['forro' => 'axe']; Menor distancia 6.5500402451 
- Genero: ['forro' => 'axe']; Menor distancia 4.6120119095 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.5789508820 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 3.7028322220 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.7551648617 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 5.7491588593 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.4054224491 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.0404853821 
- Genero: ['axe' => 'forro']; Menor distancia 2.2156920433 
- Genero: ['forro' => 'forro']; Menor distancia 2.9276678562 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 2.8550930023 
- Genero: ['forro' => 'axe']; Menor distancia 2.8675651550 
- Genero: ['sertanejo' => 'bossa_nova']; Menor distancia 16.4888114929 
- Genero: ['axe' => 'forro']; Menor distancia 4.6929945946 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'axe']; Menor distancia 4.4393000603 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.8852379322 
- Genero: ['axe' => 'axe']; Menor distancia 4.4293427467 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'axe']; Menor distancia 3.0713016987 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.1663889885 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.8013386726 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 6.1704764366 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'forro']; Menor distancia 2.8755285740 
- Genero: ['axe' => 'axe']; Menor distancia 4.7176265717 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 1.6585140228 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.2581148148 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.5438618660 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.2177333832 
- Genero: ['forro' => 'forro']; Menor distancia 2.3193044662 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 2.6208105087 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 9.0892848969 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 5.3938546181 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.9226830006 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.5191750526 
- Genero: ['forro' => 'forro']; Menor distancia 2.5301270485 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.4974799156 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.5917506218 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 6.5812935829 
- Genero: ['forro' => 'rap_hip_hop']; Menor distancia 4.9670538902 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.2553679943 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 4.8107156754 
- Genero: ['forro' => 'forro']; Menor distancia 3.0784988403 
- Genero: ['sertanejo' => 'forro']; Menor distancia 4.2340059280 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.4512667656 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 4.0585322380 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.3115148544 
- Genero: ['sertanejo' => 'forro']; Menor distancia 4.9002618790 
- Genero: ['sertanejo' => 'forro']; Menor distancia 6.3537678719 
- Genero: ['axe' => 'axe']; Menor distancia 5.7215156555 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 6.5672283173 
- Genero: ['forro' => 'forro']; Menor distancia 3.6502389908 
- Genero: ['forro' => 'forro']; Menor distancia 2.8930811882 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.5672137737 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.9828281403 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.6936910152 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 3.9341185093 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4020547867 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.4257092476 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 3.4794492722 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.8200125694 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 5.6647653580 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 4.5782184601 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 5.6660680771 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9491870403 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.8632314205 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 5.5516476631 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.4383122921 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.5149857998 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 8.0448827744 
- Genero: ['forro' => 'sertanejo']; Menor distancia 6.6690883636 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 3.2184128761 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7540030479 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 6.0008573532 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.9151551723 
- Genero: ['bossa_nova' => 'forro']; Menor distancia 3.6719944477 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 2.6204092503 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4873368740 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.8006784916 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.2239534855 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 3.2720541954 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4362175465 
- Genero: ['forro' => 'forro']; Menor distancia 2.9298505783 
- Genero: ['axe' => 'axe']; Menor distancia 5.2980399132 
- Genero: ['sertanejo' => 'forro']; Menor distancia 7.8027329445 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.5833213329 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.9660577774 
- Genero: ['forro' => 'forro']; Menor distancia 2.5453944206 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.9568428993 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.4909007549 
- Genero: ['axe' => 'axe']; Menor distancia 2.9025917053 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 5.9055337906 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.1695561409 
- Genero: ['forro' => 'forro']; Menor distancia 3.4659743309 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 6.7363481522 
- Genero: ['forro' => 'forro']; Menor distancia 1.5243040323 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 1.1711429358 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.3935842514 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.1720516682 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.8646657467 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.3801255226 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 4.5542073250 
- Genero: ['axe' => 'axe']; Menor distancia 2.1390521526 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.0655355453 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 4.1043486595 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'rap_hip_hop']; Menor distancia 2.8005816936 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 2.7497365475 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.9337618351 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 5.8136296272 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.9539432526 
- Genero: ['bossa_nova' => 'sertanejo']; Menor distancia 5.3014130592 
- Genero: ['forro' => 'forro']; Menor distancia 3.3434855938 
- Genero: ['axe' => 'sertanejo']; Menor distancia 2.5674722195 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.5067558289 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.2994141579 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4166221619 
- Genero: ['forro' => 'axe']; Menor distancia 2.5278193951 
- Genero: ['sertanejo' => 'axe']; Menor distancia 4.0695600510 
- Genero: ['forro' => 'sertanejo']; Menor distancia 4.8418793678 
- Genero: ['axe' => 'axe']; Menor distancia 3.7687819004 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.1617839336 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 3.5119333267 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.8679423332 
- Genero: ['forro' => 'sertanejo']; Menor distancia 6.5253992081 
- Genero: ['axe' => 'axe']; Menor distancia 3.7692177296 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 3.2674651146 
- Genero: ['axe' => 'axe']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'sertanejo']; Menor distancia 2.5225057602 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 4.9151945114 
- Genero: ['forro' => 'forro']; Menor distancia 3.4287917614 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.9075264931 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 7.0085005760 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.9493765831 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 5.0351071358 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 6.1917595863 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.7013225555 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.2828211784 
- Genero: ['forro' => 'forro']; Menor distancia 2.4837987423 
- Genero: ['forro' => 'forro']; Menor distancia 3.1545820236 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.4641950130 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 3.7925379276 
- Genero: ['forro' => 'forro']; Menor distancia 2.5893111229 
- Genero: ['forro' => 'axe']; Menor distancia 2.4810328484 
- Genero: ['axe' => 'forro']; Menor distancia 2.3814496994 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 2.5020751953 
- Genero: ['axe' => 'axe']; Menor distancia 2.6502687931 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 6.9614124298 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 2.3106718063 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4385437965 
- Genero: ['axe' => 'axe']; Menor distancia 7.0217499733 
- Genero: ['axe' => 'rap_hip_hop']; Menor distancia 4.8163375854 
- Genero: ['rap_hip_hop' => 'axe']; Menor distancia 3.8564822674 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'axe']; Menor distancia 5.4109921455 
- Genero: ['axe' => 'samba_pagode']; Menor distancia 2.8777186871 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 5.5277328491 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 0.0000000000 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.7591886520 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 3.8293848038 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.8124973774 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 8.7212190628 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 3.9566705227 
- Genero: ['forro' => 'forro']; Menor distancia 2.5090453625 
- Genero: ['bossa_nova' => 'bossa_nova']; Menor distancia 6.6109189987 
- Genero: ['forro' => 'axe']; Menor distancia 2.6795439720 
- Genero: ['bossa_nova' => 'axe']; Menor distancia 4.5146069527 
- Genero: ['forro' => 'forro']; Menor distancia 2.5573909283 
- Genero: ['forro' => 'axe']; Menor distancia 5.0674071312 
- Genero: ['bossa_nova' => 'samba_pagode']; Menor distancia 6.5044360161 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 4.7212753296 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 6.5220127106 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 4.3045024872 
- Genero: ['forro' => 'axe']; Menor distancia 4.5153789520 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 3.7532525063 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.8597590923 
- Genero: ['forro' => 'sertanejo']; Menor distancia 3.6843473911 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['sertanejo' => 'sertanejo']; Menor distancia 2.7438285351 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 8.0410804749 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 2.4862568378 
- Genero: ['forro' => 'forro']; Menor distancia 2.6319952011 
- Genero: ['axe' => 'forro']; Menor distancia 5.2333765030 
- Genero: ['samba_pagode' => 'bossa_nova']; Menor distancia 4.5139508247 
- Genero: ['forro' => 'samba_pagode']; Menor distancia 4.4577441216 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.7615535259 
- Genero: ['sertanejo' => 'forro']; Menor distancia 2.8580799103 
- Genero: ['rap_hip_hop' => 'forro']; Menor distancia 2.8607549667 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 2.4305169582 
- Genero: ['rap_hip_hop' => 'samba_pagode']; Menor distancia 7.7919754982 
- Genero: ['axe' => 'forro']; Menor distancia 4.2685232162 
- Genero: ['samba_pagode' => 'axe']; Menor distancia 4.7691087723 
- Genero: ['forro' => 'axe']; Menor distancia 3.6825678349 
- Genero: ['sertanejo' => 'axe']; Menor distancia 9.1691579819 
- Genero: ['sertanejo' => 'samba_pagode']; Menor distancia 1.9294729233 
- Genero: ['forro' => 'axe']; Menor distancia 2.9576017857 
- Genero: ['axe' => 'bossa_nova']; Menor distancia 6.3087034225 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 3.1130330563 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 6.6485662460 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.8844158649 
- Genero: ['axe' => 'axe']; Menor distancia 3.5448384285 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.0194551945 
- Genero: ['rap_hip_hop' => 'sertanejo']; Menor distancia 3.4255123138 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['forro' => 'forro']; Menor distancia 3.9282793999 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 4.8179993629 
- Genero: ['sertanejo' => 'forro']; Menor distancia 3.7329735756 
- Genero: ['samba_pagode' => 'forro']; Menor distancia 2.8748843670 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.4719648361 
- Genero: ['samba_pagode' => 'rap_hip_hop']; Menor distancia 2.4799096584 
- Genero: ['forro' => 'forro']; Menor distancia 2.5155811310 
- Genero: ['samba_pagode' => 'sertanejo']; Menor distancia 9.4173536301 
- Genero: ['forro' => 'axe']; Menor distancia 6.4297256470 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 2.7071323395 
- Genero: ['axe' => 'forro']; Menor distancia 5.2725138664 
- Genero: ['sertanejo' => 'axe']; Menor distancia 2.2659680843 
- Genero: ['forro' => 'forro']; Menor distancia 0.0000000000 
- Genero: ['axe' => 'axe']; Menor distancia 2.4393827915 
- Genero: ['forro' => 'forro']; Menor distancia 2.3091478348 
- Genero: ['forro' => 'axe']; Menor distancia 2.4744148254 
- Genero: ['rap_hip_hop' => 'rap_hip_hop']; Menor distancia 2.7486853600 
- Genero: ['samba_pagode' => 'samba_pagode']; Menor distancia 3.9012858868 
